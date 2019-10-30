@@ -8,6 +8,7 @@ Atualmente o projeto conta com três versões da Bíblia Sagrada em Português B
 - Nova Versão Internacional (NVI)
 - Almeida Corrigida e Fiel (ACF)
 - Almeida Revisada Imprensa Bíblica (AA)
+- Edição Pastoral CNBB (CNBB)
 
 ## Quais os formatos de arquivos disponibilizados?
 As versões estão disponibilizadas em três formatos:
@@ -37,7 +38,7 @@ Há um arquivo SQL para cada versão descrita acima. Os arquivos SQL estão codi
 
 A tabela 'verses' está estruturada da seguinte forma:
 - id: é o identificador único do versículo
-- version: é a versão da Bíblia (NVI, ACF, AA, etc)
+- version: é a versão da Bíblia (NVI, ACF, CNBB, etc)
 - testament: é a identificação do testamento, (1) Velho Testamento ou (2) Novo Testamento
 - book: é a identificação do livro da Bília (1-66)
 - chapter: é o número do caítulo
