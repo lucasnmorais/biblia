@@ -70,7 +70,7 @@ A compilação dos arquivos foi obtida por meio do crawling de páginas web. Sen
 Sim, temos versões em muitos outros idiomas. Você pode visualizar acessando nosso projeto [Bible: XML + JSON](https://github.com/thiagobodruk/bible).
 
 ## Como funcionam as licenças e direitos?
-Este projeto é distribuído sob a licença Creative Commons BY-NC. As traduções bíblicas deste projeto são de autoria e propriedade intelectual da Sociedade Bíblica Internacional (NVI), da Sociedade Bíblica Trinitariana (ACF) e da Imprensa Bíblica Brasileira (AA). Todos os direitos reservados aos autores.
+Este projeto é distribuído sob a licença Creative Commons BY-NC. As traduções bíblicas deste projeto são de autoria e propriedade intelectual da Sociedade Bíblica Internacional (NVI), da Sociedade Bíblica Trinitariana (ACF), da Imprensa Bíblica Brasileira (AA), e da Conferência Nacional dos Bispos do Brasil (CNBB). Todos os direitos reservados aos autores.
 
 ## Como eu posso ajudar?
 Ajude-nos a entregar um conteúdo de qualidade, revisando os códigos e montando estruturas otimizadas. Toda ajuda é bem vinda! :)
