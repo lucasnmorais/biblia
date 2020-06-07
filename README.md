@@ -1,5 +1,5 @@
 # Bíblia: XML + SQL + JSON
-Este projeto tem o objetivo de democratizar o acesso à Bíblia Sagrada em português brasileiro a programadores, desenvolvedores e pessoas interessadas em proclamar o Evangelho e as boas-novas do Reino de Deus por meio da tecnologia. Gostou do projeto? Você pode nos ajudar a ir ainda mais longe, basta fazer uma contribuição via PayPal.
+Este projeto tem o objetivo de democratizar o acesso à Bíblia Sagrada em português brasileiro a programadores, desenvolvedores e pessoas interessadas em proclamar o Evangelho e as boas-novas do Reino de Deus por meio da tecnologia. Gostou do projeto? Você pode nos ajudar a ir ainda mais longe, basta fazer uma contribuição via PacPay.
 
 [![Doar](https://upload.wikimedia.org/wikipedia/commons/5/5e/PicPay_Logogrande.png)](https://app.picpay.com/user/orion.is)
 
@@ -40,8 +40,8 @@ A tabela 'verses' está estruturada da seguinte forma:
 - id: é o identificador único do versículo
 - version: é a versão da Bíblia (NVI, ACF, CNBB, etc)
 - testament: é a identificação do testamento, (1) Velho Testamento ou (2) Novo Testamento
-- book: é a identificação do livro da Bília (1-66)
-- chapter: é o número do caítulo
+- book: é a identificação do livro da Bíblia (1-66 ou 1-73)
+- chapter: é o número do capítulo
 - verse: é o número do versículo
 - text: é o texto do versículo
 
